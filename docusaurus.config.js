@@ -8,15 +8,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   tagline: 'Documentacion Caso2',
   url: 'https://aress-444.github.io',
   baseUrl: '/caso02/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'ARESS-444', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
-
-
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'ignore',
+  favicon: 'img/favicon.ico',
+  organizationName: 'ARESS-444', // Usually your GitHub org/user name.
+  projectName: 'caso02', // Usually your repo name.
+
 
   presets: [
     [
