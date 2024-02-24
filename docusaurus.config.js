@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   title: 'Documentacion Caso2',
   tagline: 'Documentacion Caso2',
   url: 'https://aress-444.github.io',
-  baseUrl: '/',
+  baseUrl: '/caso02/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
